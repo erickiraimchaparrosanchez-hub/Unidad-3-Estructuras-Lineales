@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Proyecto 3 llamadas telefonicas\bin\Debug\Proyecto 3 llamadas telefonicas.exe.config
+C:\Users\erick\source\repos\Proyecto 3 llamadas telefonicas\bin\Debug\Proyecto 3 llamadas telefonicas.exe
+C:\Users\erick\source\repos\Proyecto 3 llamadas telefonicas\bin\Debug\Proyecto 3 llamadas telefonicas.pdb
+C:\Users\erick\source\repos\Proyecto 3 llamadas telefonicas\obj\Debug\Proyecto 3 llamadas telefonicas.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto 3 llamadas telefonicas\obj\Debug\Proyecto 3 llamadas telefonicas.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto 3 llamadas telefonicas\obj\Debug\Proyecto 3 llamadas telefonicas.exe
+C:\Users\erick\source\repos\Proyecto 3 llamadas telefonicas\obj\Debug\Proyecto 3 llamadas telefonicas.pdb
