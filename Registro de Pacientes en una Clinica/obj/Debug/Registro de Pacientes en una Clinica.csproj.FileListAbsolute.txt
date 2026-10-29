@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Registro de Pacientes en una Clinica\bin\Debug\Registro de Pacientes en una Clinica.exe.config
+C:\Users\erick\source\repos\Registro de Pacientes en una Clinica\bin\Debug\Registro de Pacientes en una Clinica.exe
+C:\Users\erick\source\repos\Registro de Pacientes en una Clinica\bin\Debug\Registro de Pacientes en una Clinica.pdb
+C:\Users\erick\source\repos\Registro de Pacientes en una Clinica\obj\Debug\Registro de Pacientes en una Clinica.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Registro de Pacientes en una Clinica\obj\Debug\Registro de Pacientes en una Clinica.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Registro de Pacientes en una Clinica\obj\Debug\Registro de Pacientes en una Clinica.exe
+C:\Users\erick\source\repos\Registro de Pacientes en una Clinica\obj\Debug\Registro de Pacientes en una Clinica.pdb
