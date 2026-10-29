@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Proyecto 1 Clinica\bin\Debug\Proyecto 1 Clinica.exe.config
+C:\Users\erick\source\repos\Proyecto 1 Clinica\bin\Debug\Proyecto 1 Clinica.exe
+C:\Users\erick\source\repos\Proyecto 1 Clinica\bin\Debug\Proyecto 1 Clinica.pdb
+C:\Users\erick\source\repos\Proyecto 1 Clinica\obj\Debug\Proyecto 1 Clinica.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto 1 Clinica\obj\Debug\Proyecto 1 Clinica.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto 1 Clinica\obj\Debug\Proyecto 1 Clinica.exe
+C:\Users\erick\source\repos\Proyecto 1 Clinica\obj\Debug\Proyecto 1 Clinica.pdb
