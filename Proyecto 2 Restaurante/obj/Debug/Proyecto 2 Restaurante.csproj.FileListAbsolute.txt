@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Proyecto 2 Restaurante\bin\Debug\Proyecto 2 Restaurante.exe.config
+C:\Users\erick\source\repos\Proyecto 2 Restaurante\bin\Debug\Proyecto 2 Restaurante.exe
+C:\Users\erick\source\repos\Proyecto 2 Restaurante\bin\Debug\Proyecto 2 Restaurante.pdb
+C:\Users\erick\source\repos\Proyecto 2 Restaurante\obj\Debug\Proyecto 2 Restaurante.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto 2 Restaurante\obj\Debug\Proyecto 2 Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto 2 Restaurante\obj\Debug\Proyecto 2 Restaurante.exe
+C:\Users\erick\source\repos\Proyecto 2 Restaurante\obj\Debug\Proyecto 2 Restaurante.pdb
