@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Proyecto 4 Calculadora de Expresiones Matematicas\bin\Debug\Proyecto 4 Calculadora de Expresiones Matematicas.exe.config
+C:\Users\erick\source\repos\Proyecto 4 Calculadora de Expresiones Matematicas\bin\Debug\Proyecto 4 Calculadora de Expresiones Matematicas.exe
+C:\Users\erick\source\repos\Proyecto 4 Calculadora de Expresiones Matematicas\bin\Debug\Proyecto 4 Calculadora de Expresiones Matematicas.pdb
+C:\Users\erick\source\repos\Proyecto 4 Calculadora de Expresiones Matematicas\obj\Debug\Proyecto 4 Calculadora de Expresiones Matematicas.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto 4 Calculadora de Expresiones Matematicas\obj\Debug\Proyecto 4 Calculadora de Expresiones Matematicas.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto 4 Calculadora de Expresiones Matematicas\obj\Debug\Proyecto 4 Calculadora de Expresiones Matematicas.exe
+C:\Users\erick\source\repos\Proyecto 4 Calculadora de Expresiones Matematicas\obj\Debug\Proyecto 4 Calculadora de Expresiones Matematicas.pdb
