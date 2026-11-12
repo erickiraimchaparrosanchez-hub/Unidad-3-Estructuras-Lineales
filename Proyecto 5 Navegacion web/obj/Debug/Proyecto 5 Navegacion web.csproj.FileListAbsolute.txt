@@ -1,7 +1,0 @@
-C:\Users\erick\source\repos\Proyecto 5 Navegacion web\bin\Debug\Proyecto 5 Navegacion web.exe.config
-C:\Users\erick\source\repos\Proyecto 5 Navegacion web\bin\Debug\Proyecto 5 Navegacion web.exe
-C:\Users\erick\source\repos\Proyecto 5 Navegacion web\bin\Debug\Proyecto 5 Navegacion web.pdb
-C:\Users\erick\source\repos\Proyecto 5 Navegacion web\obj\Debug\Proyecto 5 Navegacion web.csproj.AssemblyReference.cache
-C:\Users\erick\source\repos\Proyecto 5 Navegacion web\obj\Debug\Proyecto 5 Navegacion web.csproj.CoreCompileInputs.cache
-C:\Users\erick\source\repos\Proyecto 5 Navegacion web\obj\Debug\Proyecto 5 Navegacion web.exe
-C:\Users\erick\source\repos\Proyecto 5 Navegacion web\obj\Debug\Proyecto 5 Navegacion web.pdb
