@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Proyecto 7 musica\bin\Debug\Proyecto 7 musica.exe.config
+C:\Users\erick\source\repos\Proyecto 7 musica\bin\Debug\Proyecto 7 musica.exe
+C:\Users\erick\source\repos\Proyecto 7 musica\bin\Debug\Proyecto 7 musica.pdb
+C:\Users\erick\source\repos\Proyecto 7 musica\obj\Debug\Proyecto 7 musica.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto 7 musica\obj\Debug\Proyecto 7 musica.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto 7 musica\obj\Debug\Proyecto 7 musica.exe
+C:\Users\erick\source\repos\Proyecto 7 musica\obj\Debug\Proyecto 7 musica.pdb
