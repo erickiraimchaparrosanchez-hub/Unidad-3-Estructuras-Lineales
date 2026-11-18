@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Proyecto 6 tareas\obj\Debug\Proyecto 6 tareas.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto 6 tareas\obj\Debug\Proyecto 6 tareas.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto 6 tareas\bin\Debug\Proyecto 6 tareas.exe.config
+C:\Users\erick\source\repos\Proyecto 6 tareas\bin\Debug\Proyecto 6 tareas.exe
+C:\Users\erick\source\repos\Proyecto 6 tareas\bin\Debug\Proyecto 6 tareas.pdb
+C:\Users\erick\source\repos\Proyecto 6 tareas\obj\Debug\Proyecto 6 tareas.exe
+C:\Users\erick\source\repos\Proyecto 6 tareas\obj\Debug\Proyecto 6 tareas.pdb
