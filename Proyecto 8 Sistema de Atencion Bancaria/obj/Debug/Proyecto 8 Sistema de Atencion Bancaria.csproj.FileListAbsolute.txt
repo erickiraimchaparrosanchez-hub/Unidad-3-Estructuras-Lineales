@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Proyecto 8 Sistema de Atencion Bancaria\obj\Debug\Proyecto 8 Sistema de Atencion Bancaria.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto 8 Sistema de Atencion Bancaria\obj\Debug\Proyecto 8 Sistema de Atencion Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto 8 Sistema de Atencion Bancaria\bin\Debug\Proyecto 8 Sistema de Atencion Bancaria.exe.config
+C:\Users\erick\source\repos\Proyecto 8 Sistema de Atencion Bancaria\bin\Debug\Proyecto 8 Sistema de Atencion Bancaria.exe
+C:\Users\erick\source\repos\Proyecto 8 Sistema de Atencion Bancaria\bin\Debug\Proyecto 8 Sistema de Atencion Bancaria.pdb
+C:\Users\erick\source\repos\Proyecto 8 Sistema de Atencion Bancaria\obj\Debug\Proyecto 8 Sistema de Atencion Bancaria.exe
+C:\Users\erick\source\repos\Proyecto 8 Sistema de Atencion Bancaria\obj\Debug\Proyecto 8 Sistema de Atencion Bancaria.pdb
