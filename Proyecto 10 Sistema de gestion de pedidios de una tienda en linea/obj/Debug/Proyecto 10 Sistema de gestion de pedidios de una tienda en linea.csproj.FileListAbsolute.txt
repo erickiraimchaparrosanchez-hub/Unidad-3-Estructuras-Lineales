@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea\obj\Debug\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea\obj\Debug\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea\bin\Debug\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea.exe.config
+C:\Users\erick\source\repos\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea\bin\Debug\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea.exe
+C:\Users\erick\source\repos\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea\bin\Debug\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea.pdb
+C:\Users\erick\source\repos\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea\obj\Debug\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea.exe
+C:\Users\erick\source\repos\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea\obj\Debug\Proyecto 10 Sistema de gestion de pedidios de una tienda en linea.pdb
