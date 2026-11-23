@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo\bin\Debug\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo.exe.config
+C:\Users\erick\source\repos\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo\bin\Debug\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo.exe
+C:\Users\erick\source\repos\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo\bin\Debug\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo.pdb
+C:\Users\erick\source\repos\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo\obj\Debug\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo\obj\Debug\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo\obj\Debug\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo.exe
+C:\Users\erick\source\repos\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo\obj\Debug\Proyecto 9 Sistema de Control de Procesos de un Sistema Operativo.pdb
